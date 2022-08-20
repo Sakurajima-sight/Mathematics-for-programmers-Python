@@ -1,0 +1,11 @@
+
+ROG@LAPTOP-BFMSJHES MINGW64 ~/Desktop
+$ cd /c/Users/ROG/Desktop/Mathematics-for-programmers-Python
+
+ROG@LAPTOP-BFMSJHES MINGW64 ~/Desktop/Mathematics-for-programmers-Python (master)
+$ git pull
+Already up to date.
+
+ROG@LAPTOP-BFMSJHES MINGW64 ~/Desktop/Mathematics-for-programmers-Python (master)
+$ git push origin master
+Everything up-to-date
